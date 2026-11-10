@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "name": "XFetch Example Catalog",
+  "items": [
+    {
+      "id": "example-homebrew",
+      "title": "Example homebrew (placeholder)",
+      "platform": "snes",
+      "download_url": "https://example.invalid/game.sfc",
+      "sha256": null,
+      "license": "placeholder-do-not-download"
+    }
+  ]
+}
